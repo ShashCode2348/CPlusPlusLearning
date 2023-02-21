@@ -1,2 +1,2 @@
 # CPlusPlusLearning
-C++ programs to help you learn the language.
+I have attached many C++ programs, from when I was learning the language using this [course](https://www.udemy.com/share/101qVC3@slQFX_oUZUePCwcV4JiNJhRWg4f868acvUnWQpkYKWPeuDjplPIO840vXqCmukryyA==/) on Udemy(do check it out!), with many comments to help you understand exactly what each line of code does. I hope that the code is useful for you in learning the language, and happy learning!
